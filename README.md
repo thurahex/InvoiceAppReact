@@ -1,5 +1,5 @@
 # React + Vite
-[https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md](https://6596e99297c3511417520487--dynamic-mousse-b9a95e.netlify.app
+https://6596e99297c3511417520487--dynamic-mousse-b9a95e.netlify.app
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
